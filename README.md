@@ -1,2 +1,31 @@
-# Password-Strength-Checker
-Python program to evaluate password strength based on length, digits, uppercase letters, and special characters.
+# Password Strength Checker
+
+## Description
+A Python program that evaluates password strength based on:
+- Password length
+- Uppercase letters
+- Digits
+- Special characters
+
+## Features
+- Weak Password Detection
+- Medium Password Detection
+- Strong Password Detection
+
+## Technologies Used
+- Python
+
+## Example
+
+Input:
+```
+Karim123!
+```
+
+Output:
+```
+Strong Password
+```
+
+## Author
+Karim Ramadan
